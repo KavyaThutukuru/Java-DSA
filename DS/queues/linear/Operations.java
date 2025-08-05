@@ -1,4 +1,4 @@
-package queue.linear;
+package queues.linear;
 public class Operations {
     private int maxSize;
     private int[] queue;
@@ -62,3 +62,4 @@ public class Operations {
         return queue[rear];
     }
 }
+
